@@ -6,4 +6,4 @@ I'm Evgeny and I'm a Golang developer and founder at [PowerFly Consulting](https
 - 👯 I’m looking for new opportunities. Permanently.
 - 💬 Ask me about Golang, consulting and hiking.
 - I write a [Blog](https://ekhabarov.com) time-to-time.
-- ⚡ Fun fact: I'm a goal-oriented, motivated, aggressive extrovert.
+- ⚡ Fun fact: there is no facts about me. 
