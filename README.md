@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Eugene, a Golang developer and a founder at [PowerFly Consulting](https://powerfly.ca).
+I'm Eugene, a Golang developer.
 
 What I do:
 
